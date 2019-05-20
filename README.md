@@ -6,9 +6,12 @@ The important scene is the "Network 1" scene because it has the latest multiplay
 
 **To start a muliplayer game online follow these steps:**
 - open the a network scene (either "Network" or "Network 1", the last one is recommended) and press play / or simply start the build
-- press M or click on the Enable Match Maker button
-- to start your own new server click on the "Create internet" match button after giving your server a name
+- press M or click on the "Enable Match Maker" button
+- to start your own new server click on the "Create Internet Match" button after giving your server a name
 - to look for other servers click on the "Find Internet Match" button (refresh the server list by exiting the listing screen and reentering)
 
+
 + Unity version 2018.2.13f1
+
++ Dont forget to generate your actions and pick the correct binding or bind them
 
