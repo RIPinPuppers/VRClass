@@ -1,0 +1,72 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 53f2c8439bd4af546983e5ac18d45bcf, type: 3}
+  m_Name: __actions_default
+  m_EditorClassIdentifier: 
+  allActions:
+  - {fileID: 11400000, guid: 71103f263d7beaf41b3787d5e9b1ecac, type: 2}
+  - {fileID: 11400000, guid: caba0bf4c1d1b994baa3a22f3d886498, type: 2}
+  - {fileID: 11400000, guid: ddf06ce98619a0e4c85d63c2086e3727, type: 2}
+  - {fileID: 11400000, guid: 6ec2bb097b2a36a4a85a9983a475b894, type: 2}
+  - {fileID: 11400000, guid: a974bf73fedd5484385c915218c0a739, type: 2}
+  - {fileID: 11400000, guid: a3cdb75db88fba54e99b7065c4e12a38, type: 2}
+  - {fileID: 11400000, guid: df5d12d209662b24e80ecfd615b3797b, type: 2}
+  - {fileID: 11400000, guid: 5a3ff3ee0251cc94ca0bf7905feb49d4, type: 2}
+  - {fileID: 11400000, guid: fbcaa53643749274faf1ad5de5f5213b, type: 2}
+  - {fileID: 11400000, guid: f241d2ffa9817234889c30c34fd1fc14, type: 2}
+  - {fileID: 11400000, guid: 458abf1368a9b24489afb53dd7ce6400, type: 2}
+  - {fileID: 11400000, guid: 1abf4235304c1ca4a86de2330a58076a, type: 2}
+  - {fileID: 11400000, guid: 4a4d29aa401cff6478e2309a965aa409, type: 2}
+  - {fileID: 11400000, guid: b75ceb9f572dfe04bbe4090a01d08b94, type: 2}
+  - {fileID: 11400000, guid: c2cc0fcb948966f4d9944702df104681, type: 2}
+  - {fileID: 11400000, guid: 459e3a7340bb22948bb94d3f1c951010, type: 2}
+  - {fileID: 11400000, guid: e18ef8a5ad2c2d24fb9f639362c5116c, type: 2}
+  - {fileID: 11400000, guid: 7dfe1252b769991419322b00233de702, type: 2}
+  - {fileID: 11400000, guid: b9ab26b6130bef94581ca785e4e7b45e, type: 2}
+  - {fileID: 11400000, guid: 7d488095eb825ec4ba030caa4ebeb7a0, type: 2}
+  - {fileID: 11400000, guid: b17775b9b0375db46ae8ed0a65693524, type: 2}
+  - {fileID: 11400000, guid: e6e697443040ff846a8519627c1b2321, type: 2}
+  nonVisualInActions:
+  - {fileID: 11400000, guid: 71103f263d7beaf41b3787d5e9b1ecac, type: 2}
+  - {fileID: 11400000, guid: caba0bf4c1d1b994baa3a22f3d886498, type: 2}
+  - {fileID: 11400000, guid: ddf06ce98619a0e4c85d63c2086e3727, type: 2}
+  - {fileID: 11400000, guid: 6ec2bb097b2a36a4a85a9983a475b894, type: 2}
+  - {fileID: 11400000, guid: 5a3ff3ee0251cc94ca0bf7905feb49d4, type: 2}
+  - {fileID: 11400000, guid: fbcaa53643749274faf1ad5de5f5213b, type: 2}
+  - {fileID: 11400000, guid: f241d2ffa9817234889c30c34fd1fc14, type: 2}
+  - {fileID: 11400000, guid: 458abf1368a9b24489afb53dd7ce6400, type: 2}
+  - {fileID: 11400000, guid: 1abf4235304c1ca4a86de2330a58076a, type: 2}
+  - {fileID: 11400000, guid: 4a4d29aa401cff6478e2309a965aa409, type: 2}
+  - {fileID: 11400000, guid: b75ceb9f572dfe04bbe4090a01d08b94, type: 2}
+  - {fileID: 11400000, guid: c2cc0fcb948966f4d9944702df104681, type: 2}
+  - {fileID: 11400000, guid: 459e3a7340bb22948bb94d3f1c951010, type: 2}
+  - {fileID: 11400000, guid: e18ef8a5ad2c2d24fb9f639362c5116c, type: 2}
+  - {fileID: 11400000, guid: 7dfe1252b769991419322b00233de702, type: 2}
+  - {fileID: 11400000, guid: b9ab26b6130bef94581ca785e4e7b45e, type: 2}
+  - {fileID: 11400000, guid: 7d488095eb825ec4ba030caa4ebeb7a0, type: 2}
+  - {fileID: 11400000, guid: b17775b9b0375db46ae8ed0a65693524, type: 2}
+  visualActions:
+  - {fileID: 11400000, guid: a974bf73fedd5484385c915218c0a739, type: 2}
+  - {fileID: 11400000, guid: a3cdb75db88fba54e99b7065c4e12a38, type: 2}
+  - {fileID: 11400000, guid: df5d12d209662b24e80ecfd615b3797b, type: 2}
+  poseActions:
+  - {fileID: 11400000, guid: a974bf73fedd5484385c915218c0a739, type: 2}
+  - {fileID: 11400000, guid: a3cdb75db88fba54e99b7065c4e12a38, type: 2}
+  - {fileID: 11400000, guid: df5d12d209662b24e80ecfd615b3797b, type: 2}
+  skeletonActions:
+  - {fileID: 11400000, guid: a3cdb75db88fba54e99b7065c4e12a38, type: 2}
+  - {fileID: 11400000, guid: df5d12d209662b24e80ecfd615b3797b, type: 2}
+  outActionArray:
+  - {fileID: 11400000, guid: e6e697443040ff846a8519627c1b2321, type: 2}
+  fullPath: /actions/default
+  usage: leftright
+  inActions: {fileID: 11400000, guid: 3db7c438bfa601946b9dd011564b5ff7, type: 2}
+  outActions: {fileID: 11400000, guid: 6368cba744ed3354596011513f1ecd52, type: 2}
